@@ -1,16 +1,38 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
+User story for epic - 1
 
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
+As a web developer, I want to use Agile and CI/CD methodologies to efficiently and collaboratively develop a website that meets the customer's requirements.
 
-"As a customer, I want to view my order history so that I can track my past purchases."
+As a customer, I want a website to be developed using Agile and CI/CD methodologies to ensure efficient collaboration and high-quality delivery.
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+1. The website must be developed using Agile and CI/CD methodologies. 
+2. The website must meet all of the customer's requirements and specifications. 
+3. The website must be tested thoroughly to ensure high quality and functionality. 
+4. The website must be deployed to production without any issues or errors. 
+5. The development team must collaborate effectively throughout the development process. 
+6. The development team must provide regular updates and progress reports to the customer. 
+7. The website must be delivered on time and within budget. 
+8. The development team must provide documentation and support to the customer after the website is delivered. 
+9. The customer must be satisfied with the final product and the development process.
+
+User story for epic - 2
+
+As a website administrator, I want to improve the user experience and ensure legal compliance with ADA, COPPA, and GDPR standards by implementing Google Analytics.
+
+As a customer, I want the website to provide a positive user experience while also complying with legal requirements such as ADA, COPPA, and GDPR standards. I request the implementation of Google Analytics to help improve the user experience and ensure legal compliance.
+
+Acceptance Criteria:
+
+1. Google Analytics must be implemented on the website to collect user data and analytics. 
+2. The website must comply with ADA, COPPA, and GDPR standards for user privacy and data protection. 
+3. The user experience on the website must be improved based on insights gathered from Google Analytics data. 
+4. The website must be regularly monitored and updated based on Google Analytics data to ensure ongoing improvements to user experience and compliance. 
+5. The implementation must be completed within a specified timeline and budget. 
+6. The website must be tested to ensure that Google Analytics is implemented correctly and functioning properly. 
+7. The data collected by Google Analytics must be analyzed and reported to stakeholders on a regular basis. 
+8. The website administrator must be trained on how to use Google Analytics effectively and make data-driven decisions to improve the website. 
+9. The website must provide a positive user experience while also complying with legal requirements.The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme

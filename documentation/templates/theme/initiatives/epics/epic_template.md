@@ -81,4 +81,5 @@ Priority:
 The priority for this epic is high, as it is critical to improve the user experience and maintain legal compliance on the website
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)\
+2. [Story 2](documentation/templates/theme/initiatives/epics/stories/story_template.md)
