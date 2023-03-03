@@ -35,5 +35,6 @@ Acceptance Criteria:
 9. The website must provide a positive user experience while also complying with legal requirements.The order history page is only accessible to authenticated customers.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List tasks related to this theme
+1. [Develop a Website using Agile Methodology and CI/CD](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Improve User Experience and Legal Compliance with Google Analytics](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
