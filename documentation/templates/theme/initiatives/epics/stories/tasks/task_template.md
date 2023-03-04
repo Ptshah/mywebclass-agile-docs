@@ -8,7 +8,10 @@ Description: The web developer will work collaboratively with the development te
 
 Effort Estimate: 4-6 months
 
-Assigned To: Legal team
+Assigned To: 
+1. Web Developer
+2. Project Manager
+3. Devops Engineer
 
 Priority: High
 
@@ -26,7 +29,9 @@ Description: The project manager will oversee the review and improvement of the 
 
 Effort Estimate: 2-4 weeks
 
-Assigned To: Legal Team
+Assigned To: 
+1. Project Manager
+2. Web Developer
 
 Priority: Medium
 
