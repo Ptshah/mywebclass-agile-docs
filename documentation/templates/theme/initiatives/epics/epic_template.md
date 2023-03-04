@@ -60,7 +60,7 @@ User Stories:
 
 Dependencies:
 
-1. Availability of analysts to integrate and analyze data from Google Analytics. 
+1. Availability of business analysts to integrate and analyze data from Google Analytics. 
 2. Compliance with legal requirements and standards. 
 3. Availability of necessary tools and infrastructure.
 
