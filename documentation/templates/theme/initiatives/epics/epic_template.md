@@ -21,7 +21,7 @@ User Stories:
 Dependencies:
 
 1. Availability of necessary tools and infrastructure.
-2. Availability of skilled developers and analysts.
+2. Availability of skilled developers.
 3. Compliance with legal requirements and standards.
 4. Continuous feedback from stakeholders and users.
 
@@ -60,7 +60,7 @@ User Stories:
 
 Dependencies:
 
-1. Availability of skilled developers and analysts to integrate and analyze data from Google Analytics. 
+1. Availability of analysts to integrate and analyze data from Google Analytics. 
 2. Compliance with legal requirements and standards. 
 3. Availability of necessary tools and infrastructure.
 
