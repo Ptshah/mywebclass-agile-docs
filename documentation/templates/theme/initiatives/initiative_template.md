@@ -156,9 +156,8 @@ Dependencies:
 Team:
 
 1. Project Manager. 
-2. Web Developer. 
-3. Web Analyst. 
-4. UX Designer. 
+2. Business analyst. 
+3. Web Analyst.
 
 # List epics related to this theme
 1. [Agile and CI/CD-driven Website Development](https://github.com/Ptshah/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template.md)
