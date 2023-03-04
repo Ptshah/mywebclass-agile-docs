@@ -36,5 +36,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. [Develop a Website using Agile Methodology and CI/CD](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
-2. [Improve User Experience and Legal Compliance with Google Analytics](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Develop a Website using Agile Methodology and CI/CD](https://github.com/Ptshah/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Improve User Experience and Legal Compliance with Google Analytics](https://github.com/Ptshah/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

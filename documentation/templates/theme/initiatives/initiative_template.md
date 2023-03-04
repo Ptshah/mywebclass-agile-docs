@@ -161,5 +161,5 @@ Team:
 4. UX Designer. 
 
 # List epics related to this theme
-1. [Agile and CI/CD-driven Website Development](documentation/templates/theme/initiatives/epics/epic_template.md)
-2. [Improving User Experience and Legal Compliance with Google Analytics](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Agile and CI/CD-driven Website Development](https://github.com/Ptshah/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template.md)
+2. [Improving User Experience and Legal Compliance with Google Analytics](https://github.com/Ptshah/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template.md)
