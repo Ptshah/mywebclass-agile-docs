@@ -140,3 +140,9 @@ review this effectiveness before the next iteration of the project.
 |-----------------|--------------|----------|
 | 0.1.x           | TBD          | TBD      |
 
+# ADD YOUR PROJECT LINKS BELOW THIS 
+- [Webclass website](https://iampreetpatel.github.io/mywebclass-simulation/)
+- [Webclass Wiki](https://github.com/iampreetpatel/mywebclass-simulation/wiki)
+- [Project Installation](https://github.com/iampreetpatel/mywebclass-simulation/wiki/Project-Installation)
+- [Devops](https://github.com/iampreetpatel/mywebclass-simulation/wiki/Project-deployment)
+
